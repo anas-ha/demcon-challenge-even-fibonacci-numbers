@@ -26,7 +26,7 @@
 *   **Option B: Use Git (If Installed)**
     *   Install Git from [Git's official website](https://git-scm.com/).
     *   Open Git Bash or Command Prompt.
-    *   Navigate to the desired folder and use `git clone [https://github.com/anas-ha/demcon-challenge-even-fibonacci-numbers]`.
+    *   Navigate to the desired folder and use `git clone https://github.com/anas-ha/demcon-challenge-even-fibonacci-numbers`.
 
 #### 4\. **Open the Project**
 
